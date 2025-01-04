@@ -3,7 +3,7 @@ body {
   background-color: #fff;
   color: #434455;
 }
-.nav {
+ul {
   list-style-type: none;
 }
 header {
@@ -26,8 +26,6 @@ header {
   color: #2e2f42;
 }
 
-.header-text {
-}
 .header-text-one {
   font-weight: 500;
   font-size: 16px;
@@ -115,8 +113,22 @@ header {
 .main-button:focus {
   background-color: #404bbf;
 }
+
 .section-our-team {
   background: #f4f4fd;
+}
+.section-our-team-h {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-our-team-p {
+  letter-spacing: 0.02em;
+  line-height: 1.5 для;
+  font-size: 16px для;
+  color: #434455;
 }
 
 .footer {
@@ -135,7 +147,7 @@ header {
 .footer-logo-span {
   color: #f4f4fd;
 }
-. .footer-paragarf {
+.footer-paragarf {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;

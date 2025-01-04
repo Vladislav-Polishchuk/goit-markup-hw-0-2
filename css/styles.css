@@ -7,11 +7,9 @@ ul {
   list-style-type: none;
 }
 header {
-  box-sizing: border-box;
   padding: 24px 76px 24px 156px;
 }
 .header-title {
-  padding-left: 76px;
   font-family: "Raleway", sans-serif;
   font-weight: 700px;
   font-size: 18px;
@@ -137,10 +135,11 @@ header {
 .section-three-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .section-three-ul {

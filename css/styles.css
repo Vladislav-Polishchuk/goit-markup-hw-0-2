@@ -35,43 +35,43 @@ header {
   width: 261px;
   height: 24px;
 }
-.header-text-studio {
+.header-text-1 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-text-studio:hover {
+.header-text-1:hover {
   color: #404bbf;
 }
-.header-text-studio:focus {
+.header-text-1:focus {
   color: #404bbf;
 }
-.header-text-portfolio {
+.header-text-1 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-text-portfolio:hover {
+.header-text-1:hover {
   color: #404bbf;
 }
-.header-text-portfolio:focus {
+.header-text-1:focus {
   color: #404bbf;
 }
-.header-text-contacts {
+.header-text-1 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-text-contacts:hover {
+.header-text-1:hover {
   color: #404bbf;
 }
-.header-text-contacts:focus {
+.header-text-1:focus {
   color: #404bbf;
 }
 

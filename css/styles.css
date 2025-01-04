@@ -1,11 +1,11 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
   background-color: #fff;
   width: 1440px;
   height: 2060px;
+  color: #434455;
 }
-ul {
+.nav {
   list-style-type: none;
 }
 header {
@@ -18,21 +18,75 @@ header {
   padding-left: 76px;
   width: 115px;
   height: 24px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.header-title-spam {
+  color: #2e2f42;
 }
 
 .header-text {
   width: 261px;
   height: 24px;
 }
-
 .header-text-studio {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 24px;
-  padding-bottom: 24px;
+}
+.header-text-studio:hover {
+  color: #404bbf;
+}
+.header-text-studio:focus {
+  color: #404bbf;
+}
+.header-text-portfolio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-text-portfolio:hover {
+  color: #404bbf;
+}
+.header-text-portfolio:focus {
+  color: #404bbf;
+}
+.header-text-contacts {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-text-contacts:hover {
+  color: #404bbf;
+}
+.header-text-contacts:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address:hover {
+  color: #404bbf;
+}
+
+.address:focus {
+  color: #404bbf;
 }
 
 .main-header {
@@ -59,4 +113,16 @@ header {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   color: #fff;
+}
+
+.section-our-team {
+  width: 1440px;
+  height: 732px;
+  background: #f4f4fd;
+}
+
+.footer {
+  background: #2e2f42;
+  width: 1440px;
+  height: 312px;
 }

@@ -6,9 +6,7 @@ body {
 ul {
   list-style-type: none;
 }
-header {
-  padding: 24px 76px 24px 156px;
-}
+
 .header-title {
   font-family: "Raleway", sans-serif;
   font-weight: 700px;
@@ -81,7 +79,6 @@ header {
 .main-header {
   background: #2e2f42;
   text-align: center;
-  padding: 188px 472px 48px 472px;
 }
 
 .main-text {
@@ -94,9 +91,6 @@ header {
 }
 
 .main-button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   color: #fff;
   font-weight: 500;

@@ -117,17 +117,37 @@ header {
 .section-our-team {
   background: #f4f4fd;
 }
-.section-our-team-h {
+.section-two-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-our-team-p {
+.section-two-p {
   letter-spacing: 0.02em;
   line-height: 1.5 для;
   font-size: 16px для;
+  color: #434455;
+}
+
+.section-three-h {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.section-three-ul {
+  background-color: #ffffff;
+}
+
+.section-three-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
